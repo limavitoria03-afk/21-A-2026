@@ -1,0 +1,16 @@
+header{
+    background-color: blue;/*cor da fonte*/
+    color: blue; ;/*cor da fonte*/
+}
+main{
+     background-color: blue;(194,83,32);
+    color: blue;(212,49,49);
+    text-align: center;/*alinha o texto ao centro*/
+    max-width: 800px;/*largura máxima*/
+    margin: 0 auto;/*configura margens*/
+}
+
+footer{
+    background-color: blue;(202,140,47);
+    color: blue (166,250,250) ;
+}
